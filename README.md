@@ -1,4 +1,4 @@
-CryptoCoinLayerApp
+# CryptoCoinLayerApp
 
 This is an Android App. I used two API in this project, other API to fetch missing information such as icon image, name and exchange rate. 
 
